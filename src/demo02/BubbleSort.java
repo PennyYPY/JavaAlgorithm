@@ -4,6 +4,7 @@ package demo02;
  * Created by Administrator on 2018/3/28.
  * 冒泡排序；
  * 时间复杂度O(n^2)
+ * 这里出了一点问题，当数组长度大于1000时排序失效，也不知道原因，好郁闷；
  */
 public class BubbleSort {
 
